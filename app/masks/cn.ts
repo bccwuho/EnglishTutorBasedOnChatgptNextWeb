@@ -3,7 +3,7 @@ import { BuiltinMask } from "./typing";
 export const CN_MASKS: BuiltinMask[] = [
   {
     avatar: "1f5bc-fe0f",
-    name: "英语教师-请输入单词或单词列表",
+    name: "初中英语教师-请输入单词或单词列表",
     context: [
       {
         role: "system",
